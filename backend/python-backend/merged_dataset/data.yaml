@@ -1,0 +1,5 @@
+train: train/images
+val: valid/images
+test: test/images
+nc: 5
+names: ["Broken Pole", "Fallen Tree", "Garbage", "Inclined Pole", "Pothole"]
