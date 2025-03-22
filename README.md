@@ -1,1 +1,1 @@
-#Vidhik- AIML-Driven E-Governance Platform
+Vidhik- AIML-Driven E-Governance Platform
